@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pgmoorthy1411
-- 👀 I’m interested in Mobile and Hybrid App development
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on senior developers
+- 👀 I’m interested in Web, Mobile and Hybrid App development
 - 📫 How to reach me pgmoorthy1411@gmail.com
 
 <!---
